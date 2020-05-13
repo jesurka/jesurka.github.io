@@ -6,25 +6,8 @@ So people read our app...a lot! Like, a crazy amount. To the point where people 
 
 I've worked to uphold our brand values (and my own personal ones) through all written touchpoints of the app. I've written clear and concise copy that doesn't skimp on the fun. Being original and relatable is core to the company, and myself as a writer.
 
-I've collaborated with designers, engineers, and product managers to figure out how the words can best serve their new feature. I've rewritten dated copy that user's found confusing. I'f it's in the app I've seen it. Below is a sample of some of the UX work I've done at Discord.
+I've collaborated with designers, engineers, and product managers to figure out how the words can best serve their new feature. I've rewritten dated copy that users found confusing. If it's in the app I've seen it. Below is a sample of some of the UX work I've done at Discord.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
