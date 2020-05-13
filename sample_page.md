@@ -1,10 +1,10 @@
 ## UX Writing
 
-**Project description:** UX writing is serious biz at Discord. Our users are *highly* engaged. They spend hours on the app hanging out, talking to their friends, and playing games. 
+UX writing is serious biz at Discord. Our users are *highly* engaged. They spend hours on the app hanging out, talking to their friends, and playing games. 
 
 So people read our app...a lot! Like, a crazy amount. To the point where people will personally message me to tell me they like the words I've written. Which is very flattering. But kinda spooky?
 
-I've worked to uphold our brand values through all written touchpoints of the app. I've written clear and concise copy that doesn't skimp on the fun. Being original and relatable is core to the company, and myself as a writer.
+I've worked to uphold our brand values through all written touchpoints of the app. I've written clear and concise copy that doesn't skimp on the fun. Being original and relatable is core to the company and myself as a writer.
 
 I've collaborated with designers, engineers, and product managers to figure out how the words can best serve their new feature. I've rewritten dated copy that users found confusing. If it's in the app I've seen it, and so have millions of our users. Below is a sample of some of the UX work I've done at Discord.
 
