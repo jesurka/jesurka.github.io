@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Discord Work
 
 [Change Logs](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
