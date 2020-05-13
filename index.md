@@ -4,11 +4,11 @@
 
 ### Discord Work
 
-[Change Logs](/sample_page)
+[UX Writing](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[UX Writing](/pdf/sample_presentation.pdf)
+[Change Logs](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -21,19 +21,8 @@
 
 ---
 
-### Category Name 2
+### Personal Work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- one day i'll have something i think is cool enough to put here. when i was 17 i won a grand in a poetry contest if that counts.
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
