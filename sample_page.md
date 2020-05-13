@@ -8,10 +8,13 @@ I've worked to uphold our brand values (and my own personal ones) through all wr
 
 I've collaborated with designers, engineers, and product managers to figure out how the words can best serve their new feature. I've rewritten dated copy that users found confusing. If it's in the app I've seen it. Below is a sample of some of the UX work I've done at Discord.
 
+### 3. In-app Examples
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="example 1_mobile.png"/>
+<img src="example1.png"/>
+<img src="Annotation 2020-03-24 201913.png"/>
+<img src="Annotation 2020-03-10 183016.png"/>
+<img src="<img src="Annotation 2020-03-10 183016.png"/>"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
