@@ -4,17 +4,17 @@
 
 So people read our app...a lot! Like, a crazy amount. To the point where people will personally message me to tell me they like the words I've written. Which is very flattering. But kinda spooky?
 
-I've worked to uphold our brand values (and my own personal ones) through all written touchpoints of the app. I've written clear and concise copy that doesn't skimp on the fun. Being original and relatable is core to the company, and myself as a writer.
+I've worked to uphold our brand values through all written touchpoints of the app. I've written clear and concise copy that doesn't skimp on the fun. Being original and relatable is core to the company, and myself as a writer.
 
 I've collaborated with designers, engineers, and product managers to figure out how the words can best serve their new feature. I've rewritten dated copy that users found confusing. If it's in the app I've seen it, and so have millions of our users. Below is a sample of some of the UX work I've done at Discord.
 
-### 3. In-app Examples
+### In-app Examples
 
 <img src="example 1_mobile.png"/>
 <img src="example1.png"/>
 <img src="Annotation 2020-03-24 201913.png"/>
 <img src="Annotation 2020-03-10 183016.png"/>
-<img src="<img src="Annotation 2020-03-10 183016.png"/>"
+<img src="<img src="Annotation 2020-03-10 183016.png"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
