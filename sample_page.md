@@ -14,7 +14,7 @@ I've collaborated with designers, engineers, and product managers to figure out 
 <img src="example1.png"/>
 <img src="Annotation 2020-03-24 201913.png"/>
 <img src="Annotation 2020-03-10 183016.png"/>
-<img src="<img src="Annotation 2020-03-10 183016.png"/>"/>
+<img src="<img src="Annotation 2020-03-10 183016.png"/>"
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
